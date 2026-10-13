@@ -55,18 +55,4 @@ Plan smarter with priorities, due dates, categories, live stats, and a beautiful
 |---|---|
 | ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
 
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| **Backend** | Python 3, Flask |
-| **Database** | SQLite (built-in) |
-| **Frontend** | HTML5, CSS3, Vanilla JavaScript (ES6) |
-| **API Style** | REST |
-| **Styling** | Custom CSS with CSS variables (theme-ready) |
-
----
-
 ## 📁 Project Structure
